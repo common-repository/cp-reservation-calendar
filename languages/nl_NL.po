@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-04-21 12:14+0100\n"
+"PO-Revision-Date: 2022-11-29 16:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: c:/xampp/htdocs/wp3.5.1/wp-content/plugins/cp-"
+"reservation-calendar\n"
+"X-Poedit-SearchPath-0: c:/xampp/htdocs/wp3.5.1/wp-content/plugins/cp-"
+"reservation-calendar\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations.php:329
+#: dex_reservations.php:329
+msgid "Settings"
+msgstr "Instellingen"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations.php:336
+#: dex_reservations.php:336
+msgid "Help"
+msgstr "Help"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations.php:342
+#: dex_reservations.php:342
+msgid "Request custom changes"
+msgstr "Offerte voor speciale aanpassingen"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations.php:361
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations_admin_int.inc.php:378
+#: dex_reservations.php:361 dex_reservations_admin_int.inc.php:378
+msgid "Insert Reservation Calendar"
+msgstr "Reservering Kalender Invoegen"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations.php:361
+#: dex_reservations.php:361
+msgid "Insert  Reservation Calendar"
+msgstr "Reservering Kalender Invoegen"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations_admin_int.inc.php:65
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:4
+#: dex_reservations_admin_int.inc.php:65 dex_scheduler.inc.php:4
+msgid "Select Start Date"
+msgstr "Kies een startdatum"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations_admin_int.inc.php:65
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:5
+#: dex_reservations_admin_int.inc.php:65 dex_scheduler.inc.php:5
+msgid "Select End Date"
+msgstr "Kies een einddatum"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations_admin_int.inc.php:65
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:6
+#: dex_reservations_admin_int.inc.php:65 dex_scheduler.inc.php:6
+msgid "Cancel Selection"
+msgstr "Selectie annuleren"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations_admin_int.inc.php:65
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:7
+#: dex_reservations_admin_int.inc.php:65 dex_scheduler.inc.php:7
+msgid "Successfully"
+msgstr "Succesvol"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations_admin_int_bookings_list.inc.php:74
+#: dex_reservations_admin_int_bookings_list.inc.php:74
+msgid "&laquo; Previous"
+msgstr "&laquo; Vorige"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_reservations_admin_int_bookings_list.inc.php:75
+#: dex_reservations_admin_int_bookings_list.inc.php:75
+msgid "Next &raquo;"
+msgstr "Volgende &raquo;"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:8
+#: dex_scheduler.inc.php:8
+msgid "Please enter a valid phone number"
+msgstr "Schrijf een geldig telefoonnummer"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:9
+#: dex_scheduler.inc.php:9
+msgid "Please enter a valid email address"
+msgstr "Schrijf uw e-mailadres"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:10
+#: dex_scheduler.inc.php:10
+msgid "Please write your name"
+msgstr "Schrijf uw naam"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:11
+#: dex_scheduler.inc.php:11
+msgid "Please select start and end dates"
+msgstr "Selecteer begin- en einddatum"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:12
+#: dex_scheduler.inc.php:12
+msgid "Please enter the captcha verification code"
+msgstr "Vul de captcha verificatie code"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:13
+#: dex_scheduler.inc.php:13
+msgid "Incorrect captcha code. Please try again."
+msgstr "Onjuiste captcha code. Gelieve opnieuw te proberen."
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:14
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:15
+#: dex_scheduler.inc.php:14 dex_scheduler.inc.php:15
+msgid "Your phone number"
+msgstr "Uw telefoonnummer"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:16
+#: dex_scheduler.inc.php:16
+msgid "Your name"
+msgstr "Uw naam"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:17
+#: dex_scheduler.inc.php:17
+msgid "Your email"
+msgstr "Uw e-mailadres"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:18
+#: dex_scheduler.inc.php:18
+msgid "Comments/Questions"
+msgstr "Vragen / opmerkingen"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:19
+#: dex_scheduler.inc.php:19
+msgid "Coupon code (optional)"
+msgstr "Coupon code (optioneel)"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:20
+#: dex_scheduler.inc.php:20
+msgid "Service"
+msgstr "Service"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:21
+#: dex_scheduler.inc.php:21
+msgid "Please enter the security code"
+msgstr "Vul de beveiligingscode in"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:22
+#: dex_scheduler.inc.php:22
+msgid "Security Code (lowercase letters)"
+msgstr "Beveiligingscode (kleine letters):"
+
+#: c:\xampp\htdocs\wp3.5.1\wp-content\plugins\cp-reservation-calendar/dex_scheduler.inc.php:23
+#: dex_scheduler.inc.php:23
+msgid "Continue"
+msgstr "Doorgaan"
